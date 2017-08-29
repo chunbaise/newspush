@@ -17,3 +17,5 @@
 *.exe~
 
 debug
+*.tmp
+commentsRouter_controllers.go
